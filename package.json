@@ -21,6 +21,6 @@
   "homepage": "https://github.com/AllenShaji3/comp-2068-lesson3#readme",
   "dependencies": {
     "ejs": "^3.1.3",
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
